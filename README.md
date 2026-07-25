@@ -1,2 +1,108 @@
-# bank_customer_segementation
-Built an interactive Power BI dashboard to analyze bank customer demographics, transaction behavior, customer segmentation, and profitability. Used Power Query, DAX, and data modeling to create KPIs, interactive visuals, and actionable insights that support data driven business decisions.
+# 🏦 Bank Customer Segmentation & Transaction Analysis Dashboard
+
+## 📌 Overview
+
+This project is an interactive Power BI dashboard developed to analyze banking customer data and transaction patterns. It provides insights into customer demographics, transaction behavior, customer segmentation, and profitability, enabling better business decision making.
+
+## 🎯 Objectives
+
+* Analyze customer demographics.
+* Understand transaction behavior and trends.
+* Segment customers based on their activity.
+* Identify profitable customer groups.
+* Monitor key business KPIs through interactive dashboards.
+
+## 📊 Dashboard Features
+
+### Dashboard 1: Customer Demographics
+
+* Total Customers
+* Gender Distribution
+* Age Group Analysis
+* Occupation Distribution
+* Customer Distribution by Location
+
+### Dashboard 2: Transaction Behavior
+
+* Total Transactions
+* Total Revenue
+* Average Transaction Amount
+* Average Account Balance
+* Transaction Trends Over Time
+* Transaction Distribution
+
+### Dashboard 3: Customer Segmentation
+
+* Customer Segments (New, Regular, Loyal, Lost)
+* Revenue by Segment
+* Transaction Frequency by Segment
+* Customer Lifetime Value
+* Segment Wise Performance
+
+### Dashboard 4: Profitability & Risk Analysis
+
+* High Value Customers
+* Revenue Contribution
+* Profitability Analysis
+* Customer Risk Indicators
+* Account Balance Analysis
+
+## 🛠️ Tools & Technologies
+
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Microsoft Excel
+
+## 📈 Key KPIs
+
+* Total Customers
+* Total Transactions
+* Total Revenue
+* Average Transaction Amount
+* Average Account Balance
+* Customer Lifetime Value
+* Revenue by Segment
+
+## 📁 Project Structure
+
+```text
+├── proj.pbix
+├── Dataset.csv
+├── README.md
+└── Screenshots/
+```
+
+## 🚀 Key Skills Demonstrated
+
+* Data Cleaning
+* Data Transformation
+* Data Modeling
+* DAX Calculations
+* Business Intelligence
+* Dashboard Design
+* Customer Segmentation
+* Data Visualization
+* KPI Development
+
+## 📷 Dashboard Preview
+
+### Customer Demographics Dashboard
+![Dashboard 1](Screenshots/dashboard1.png)
+
+### Transaction Behavior Dashboard
+![Dashboard 2](Screenshots/dashboard2.png)
+
+### Customer Segmentation Dashboard
+![Dashboard 3](Screenshots/dashboard3.png)
+
+### Profitability & Risk Analysis Dashboard
+![Dashboard 4](Screenshots/dashboard4.png)
+
+## 📌 Future Improvements
+
+* Predict customer churn using Machine Learning.
+* Real time dashboard integration.
+* Customer recommendation system.
+* Advanced forecasting and trend analysis.
