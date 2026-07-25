@@ -67,9 +67,10 @@ This project is an interactive Power BI dashboard developed to analyze banking c
 
 ## 📁 Project Structure
 
-```text
-├── proj.pbix
-├── Dataset.csv
+```
+├── proj.pbit
+├── bank_transactions.zip
+  └── bank_transactions.csv
 ├── README.md
 └── Screenshots/
 ```
