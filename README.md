@@ -90,16 +90,16 @@ This project is an interactive Power BI dashboard developed to analyze banking c
 ## 📷 Dashboard Preview
 
 ### Customer Demographics Dashboard
-![Dashboard 1](Screenshots/dashboard1.png)
+![Dashboard 1](Screenshots/Dashboard1.png)
 
 ### Transaction Behavior Dashboard
-![Dashboard 2](Screenshots/dashboard2.png)
+![Dashboard 2](Screenshots/Dashboard2.png)
 
 ### Customer Segmentation Dashboard
-![Dashboard 3](Screenshots/dashboard3.png)
+![Dashboard 3](Screenshots/Dashboard3.png)
 
 ### Profitability & Risk Analysis Dashboard
-![Dashboard 4](Screenshots/dashboard4.png)
+![Dashboard 4](Screenshots/Dashboard4.png)
 
 ## 📌 Future Improvements
 
